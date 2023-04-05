@@ -5,3 +5,5 @@
 #Print the value of the 'answer'
 
 
+number = 91
+print(f"{number%10}{number//10}")
