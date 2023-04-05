@@ -4,5 +4,5 @@
 
 #Print the vallue of the 'answer'.
 number = 43
-answer = number
+answer = ((number//10)+(number%10))
 print(answer)
